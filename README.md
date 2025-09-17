@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **guptavinash04@gmail.com**
 
-- 📄 Know about my experiences [https://guptavinash.github.io/Folio/assets/Avinash_Gupta_Resume.pdf](https://guptavinash.github.io/Folio/assets/Avinash_Gupta_Resume.pdf)
+- 📄 Know about my experiences [https://guptavinash.github.io/Folio/assets/Avinash_Gupta_Resume.pdf](https://guptavinash.github.io/Folio/assets/AvinashGupta_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
